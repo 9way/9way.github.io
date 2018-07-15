@@ -1,5 +1,5 @@
 # Study Notes
 ## Python
 ### pyautogui
-[2018/07/15 ¨Ï¥Î pyautogui °µÂ²³æªº¹CÀ¸¸}¥»](./study_notes/python/pyautogui/20180715_pyautogui.md)
+[2018/07/15 ä½¿ç”¨ pyautogui è£½ä½œç°¡å–®çš„è…³æœ¬](./study_notes/python/pyautogui/20180715_pyautogui.md)
 
