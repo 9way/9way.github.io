@@ -1,5 +1,4 @@
 # Study Notes
-## Python
-### pyautogui
-[2018/07/15 使用 pyautogui 製作簡單的腳本](./study_notes/python/pyautogui/20180715_pyautogui.md)
+放一些程式語言、工具、工作知識的學習筆記
+[Study Notes](./study_notes/)
 
