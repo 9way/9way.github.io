@@ -12,3 +12,4 @@
 ## Python
 ### Pyautogui
 [2018/07/15 使用 Pyautogui 製作簡單的腳本](./python/pyautogui/20180715_pyautogui.md)
+[2018/07/17 使用 Pyautogui 製作簡單的腳本(2)](./python/pyautogui/20180717_pyautogui_2.md)
