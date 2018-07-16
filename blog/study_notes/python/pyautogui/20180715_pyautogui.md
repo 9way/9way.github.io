@@ -42,7 +42,7 @@ print("Press Ctrl-C to quit.")
 
 try:
     while True:
-		pyautogui.click(400, 400)
+	    pyautogui.click(400, 400)
 		time.sleep(10)
 
 except KeyboardInterrupt:
