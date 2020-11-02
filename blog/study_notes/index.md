@@ -7,9 +7,12 @@
 我在前份工作脫離菜鳥時期後，雖然利用餘暇做了一些分析工作常見的 log pattern 的工具的時間趁機練習了一下 Python，但隨著身心狀況的變差後來離職後連寫小工具的意願都沒有了。最近身心狀況好一點，所以會找些事情繼續練習 Python。
 
 ## VIM
+[2020/11/02 vimrc for python 縮排](./vim/20201102_vimrc_softstop.md)
 [2018/07/16 vimrc for UTF-8](./vim/20180716_vimrc_utf8.md)
 
 ## Python
+### Django
+
 ### Pyautogui
 [2019/02/26 使用 pyautogui 的出現的 pygetwindow 錯誤的簡單排解](./python/pyautogui/20190226_pygetwindow.md)
 
