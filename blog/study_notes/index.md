@@ -8,6 +8,7 @@
 
 ## VIM
 [2020/11/02 vimrc for python 縮排](./vim/20201102_vimrc_softstop.md)
+
 [2018/07/16 vimrc for UTF-8](./vim/20180716_vimrc_utf8.md)
 
 ## Python
