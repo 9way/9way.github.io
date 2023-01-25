@@ -8,6 +8,11 @@
 
 [2018/07/16 vimrc for UTF-8](./vim/20180716_vimrc_utf8.md)
 
+
+## Kotlin
+[2023/01/25 Kotlin 學習筆記1](./kotlin/note20230125.md)
+
+
 ## Python
 ### Django
 [2022/01/10 解決 django.db.utils.OperationalError: 3780](https://ithelp.ithome.com.tw/articles/10283580)
