@@ -1,6 +1,6 @@
 # Study Notes
 
-最近在練習 Python。(有些東西會同步發在 ithelp.ithome.com.tw )
+最近在練習 Python 跟 Kotlin。(有些東西會同步發在 ithelp.ithome.com.tw )
 
 
 ## VIM
