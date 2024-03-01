@@ -1,9 +1,9 @@
 #9way's Pages
 
-Hi, I'm 9way Kuo, aka Kerickuo in some community.
+Hi, I'm Keric Kuo, aka 9way.
 
-A software engineer with East Asia history interested.
+A software/Firmware engineer.
 
-[Blog for some studying](./blog/index.md)
+- [My blog](./blog/index.md)
 
 
