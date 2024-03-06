@@ -1,2 +1,5 @@
 
 .DS_Store
+*.sqlite
+*.vsidx
+.vs/9way.github.io/v17/.wsuo
