@@ -1,9 +1,15 @@
 # Study Notes
 
+## Python
 最近在練習 Python 刷題
 
 - [Python 資料結構與演算法](./python/algo.md)
 - [Python 模組/Framework](./python/index.md)
+
+
+## C
+- [C 資料結構與演算法](./C/algo.md)
+
 
 ## 其他
 ### Unity Engine
