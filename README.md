@@ -10,3 +10,6 @@ Aside Power related topics, I also interesting in study history, science, techno
 
 Nice to meet you.
 
+---
+If you like my blogs, you can
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kerickuo)
