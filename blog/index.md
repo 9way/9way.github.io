@@ -1,4 +1,4 @@
-
+﻿
 
 # Study Notes
 
@@ -6,7 +6,7 @@
 
 - [Programming and Work Notes](./study_notes/index.md)
 
-- [歷史相關研究與心得](./history/index.md)
+- [歷史相關研究與心得](./history_han/index.md)
 
 
 # Others
